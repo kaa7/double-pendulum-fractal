@@ -1,2 +1,2 @@
 # double-pendulum-fractal
-Fractals obtained from a double pendulum 
+Fractals obtained from a double pendulum. 
